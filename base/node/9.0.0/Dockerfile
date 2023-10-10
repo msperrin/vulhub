@@ -1,3 +1,3 @@
-FROM node:9.0.0
+FROM node:20.7.0-slim
 
 LABEL maintainer="phithon <root@leavesongs.com>"
